@@ -37,6 +37,7 @@ Cài dependencies
 ```bash
 cd my-medusa-store
 npm install
+dos2unix start.sh
 ```
 
 Cài đặt Docker
